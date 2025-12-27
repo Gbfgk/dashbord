@@ -1,0 +1,19 @@
+[
+  {
+    "title": "EXAMPLE",
+    "items": [
+      {
+        "icon": "fas fa-cloud",
+        "title": "国际非营利组织实例",
+        "url": "https://example.org/",
+        "badge": ""
+      },
+      {
+        "icon": "fas fa-calendar-alt",
+        "title": "主站",
+        "url": "https://meteor.xin/",
+        "badge": ""
+      }
+    ]
+  }
+]
